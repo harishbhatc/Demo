@@ -14,6 +14,11 @@ public class LoginPageTest {
 		System.out.println("Test");
 	}
 	
+	@Test
+	public void test2() {
+		System.out.println("Test");
+	}
+	
 	@AfterMethod
 	public void tearDown() {
 		System.out.println("AfterTest");
